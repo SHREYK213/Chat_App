@@ -41,7 +41,7 @@ Follow the steps below to get the app up and running on your local machine:
 3. Start the application:
 
    ```
-   npm start
+   npm run dev
    ```
 
 4. Open your browser and visit `http://localhost:3000` to see the app in action.
