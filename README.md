@@ -32,25 +32,21 @@ Follow the steps below to get the app up and running on your local machine:
    git clone https://github.com/your-username/chat-app.git
    ```
 
-2. Navigate to the project directory:
-
-   ```
-   cd chat-app
-   ```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
    ```
    npm install
    ```
 
-4. Start the application:
+3. Start the application:
 
    ```
    npm start
    ```
 
-5. Open your browser and visit `http://localhost:3000` to see the app in action.
+4. Open your browser and visit `http://localhost:3000` to see the app in action.
+
+
 
 ## Configuration
 
@@ -78,4 +74,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact me at your-email@example.com.
+For any questions or inquiries, please contact me at shreyaspoojary240@gmail.com
